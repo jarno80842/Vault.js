@@ -1,0 +1,52 @@
+body{
+    background-color: blueviolet;
+}
+
+#main-container{
+    background-color: yellow;
+    width: 700px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+#Green{
+    background-color: green;
+    width: 348px;
+    height: 100px;
+    display: block;
+    float: left;
+}
+
+#Red{
+    background-color:darkred;
+    width: 348px;
+    height: 100px;
+    display: block;
+    float: right;
+}
+
+#code-container{
+    height: 125px;
+    font-size: 100px;
+    display: block;
+    text-align: center;
+    background-color:purple;
+    margin: 20px;
+    margin-top: 10px;
+}
+
+#button-container{
+    display: block;
+    margin: 0 auto;
+    background-color: purple;
+}
+
+.button{
+    width: 200px;
+    height:75px;
+
+}
+
+#flash{
+    overflow: hidden;
+}
